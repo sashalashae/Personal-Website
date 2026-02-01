@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "login": "DART-Laboratory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133615531?v=4",
+      "__typename": "Organization",
+      "url": "https://github.com/DART-Laboratory",
+      "sourceUser": "sashalashae"
+    },
+    {
+      "login": "OAGi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+      "__typename": "Organization",
+      "url": "https://github.com/OAGi",
+      "sourceUser": "smorgan19"
+    }
+  ],
+  "users": [
+    "sashalashae",
+    "smorgan19"
+  ]
+}

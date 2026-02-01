@@ -1,0 +1,1382 @@
+{
+  "data": [
+    {
+      "id": "I_kwDOATvdRc7NJwx_",
+      "closed": false,
+      "title": "Utilize Model Context Protocol for AI Score Integration",
+      "createdAt": "2025-09-22T16:59:04Z",
+      "url": "https://github.com/OAGi/Score/issues/1692",
+      "number": 1692,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc7CW2Vw",
+      "closed": false,
+      "title": "Enhance Score Tool with Flexible AI Solution Integration",
+      "createdAt": "2025-07-24T18:08:04Z",
+      "url": "https://github.com/OAGi/Score/issues/1675",
+      "number": 1675,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc7BKyeZ",
+      "closed": true,
+      "title": "UI Enhancement: PlantUML option for the Show Diagram option in view bie area",
+      "createdAt": "2025-07-17T20:33:26Z",
+      "url": "https://github.com/OAGi/Score/issues/1673",
+      "number": 1673,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc7BKv2s",
+      "closed": true,
+      "title": "UI Enhancement:  Add a Where Used menu option to the browser view of a CC",
+      "createdAt": "2025-07-17T20:29:08Z",
+      "url": "https://github.com/OAGi/Score/issues/1672",
+      "number": 1672,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc64emdW",
+      "closed": true,
+      "title": "UI Enhancement:  Default library option possibly being connectSpec.",
+      "createdAt": "2025-05-27T19:53:11Z",
+      "url": "https://github.com/OAGi/Score/issues/1668",
+      "number": 1668,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc64b8T3",
+      "closed": true,
+      "title": "Copy BIE with existing Business Context is only rendering the first bie",
+      "createdAt": "2025-05-27T15:21:59Z",
+      "url": "https://github.com/OAGi/Score/issues/1667",
+      "number": 1667,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc64bqet",
+      "closed": false,
+      "title": "Adding the create inherited bie and use base bie available on the meatball menu for all layers of the tree.",
+      "createdAt": "2025-05-27T15:00:14Z",
+      "url": "https://github.com/OAGi/Score/issues/1666",
+      "number": 1666,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc64bjoH",
+      "closed": true,
+      "title": "Right clicking on a bie in the view bie menu no longer shows the default browser menu",
+      "createdAt": "2025-05-27T14:52:10Z",
+      "url": "https://github.com/OAGi/Score/issues/1665",
+      "number": 1665,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc6P3ko7",
+      "closed": true,
+      "title": "Annotation is appearing twice in expressed xsd bies",
+      "createdAt": "2024-07-17T14:02:09Z",
+      "url": "https://github.com/OAGi/Score/issues/1630",
+      "number": 1630,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc6K_m41",
+      "closed": true,
+      "title": "BIE Uplifting Issue:  Users unable to uplift BIE's that the user owns, but can uplift other users BIEs",
+      "createdAt": "2024-06-03T19:58:16Z",
+      "url": "https://github.com/OAGi/Score/issues/1623",
+      "number": 1623,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc6K_brC",
+      "closed": true,
+      "title": "Transfer Ownership UI Issue, if you click on a username in the transfer ownership list it shows a not-found works message.  ",
+      "createdAt": "2024-06-03T19:29:09Z",
+      "url": "https://github.com/OAGi/Score/issues/1622",
+      "number": 1622,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc6DgXQ3",
+      "closed": true,
+      "title": "Linking Existing Accounts option for SSO missing developer accounts in the list",
+      "createdAt": "2024-03-25T17:26:33Z",
+      "url": "https://github.com/OAGi/Score/issues/1616",
+      "number": 1616,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5_P3W1",
+      "closed": false,
+      "title": "Reducing the amount of steps need to edit a nested reused bie",
+      "createdAt": "2024-02-14T17:50:04Z",
+      "url": "https://github.com/OAGi/Score/issues/1604",
+      "number": 1604,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5-tS-n",
+      "closed": true,
+      "title": "AVSC schemas are generating with invalid integer field",
+      "createdAt": "2024-02-08T18:15:29Z",
+      "url": "https://github.com/OAGi/Score/issues/1602",
+      "number": 1602,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc549SMW",
+      "closed": true,
+      "title": "Http Gateway Image is showing 2 critical vulnerabilities associated with CVE-2023-28531 and CVE-2023-45853",
+      "createdAt": "2023-12-06T20:28:59Z",
+      "url": "https://github.com/OAGi/Score/issues/1584",
+      "number": 1584,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc53D2yF",
+      "closed": true,
+      "title": "Releases Details What's Changed Feature/Button available for End User Accounts",
+      "createdAt": "2023-11-16T18:35:13Z",
+      "url": "https://github.com/OAGi/Score/issues/1579",
+      "number": 1579,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc52sd1_",
+      "closed": true,
+      "title": "Ability to disassociate SSO with an account or to merge to account together",
+      "createdAt": "2023-11-13T19:51:37Z",
+      "url": "https://github.com/OAGi/Score/issues/1577",
+      "number": 1577,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc52sSv2",
+      "closed": true,
+      "title": "Admin capability to transfer WIP BIEs owned by any users",
+      "createdAt": "2023-11-13T19:26:18Z",
+      "url": "https://github.com/OAGi/Score/issues/1576",
+      "number": 1576,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc52sPky",
+      "closed": true,
+      "title": "Ability to mark a BIE as deprecated",
+      "createdAt": "2023-11-13T19:18:24Z",
+      "url": "https://github.com/OAGi/Score/issues/1575",
+      "number": 1575,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5wU9KX",
+      "closed": true,
+      "title": "AVSC schema generates an invalid schema when a component has no children attributes",
+      "createdAt": "2023-09-06T18:30:21Z",
+      "url": "https://github.com/OAGi/Score/issues/1543",
+      "number": 1543,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5r6PVx",
+      "closed": true,
+      "title": "Notifications for admins when there is a pending account",
+      "createdAt": "2023-07-18T17:52:31Z",
+      "url": "https://github.com/OAGi/Score/issues/1525",
+      "number": 1525,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5r6L23",
+      "closed": true,
+      "title": "New User Banner or Help Area on the Login Page",
+      "createdAt": "2023-07-18T17:41:05Z",
+      "url": "https://github.com/OAGi/Score/issues/1524",
+      "number": 1524,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7863166?v=4",
+            "name": null,
+            "url": "https://github.com/kbserm"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/117864643?u=a347a6cc382dab6e0b8cd6b75445230e1a98faba&v=4",
+            "name": null,
+            "url": "https://github.com/bingqi2045"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5mqtaJ",
+      "closed": true,
+      "title": "Addition of AVSC/AVRO as an Expressable Schema Format",
+      "createdAt": "2023-05-23T17:03:15Z",
+      "url": "https://github.com/OAGi/Score/issues/1500",
+      "number": 1500,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5lYWM0",
+      "closed": true,
+      "title": "Removing a Reused BIE at Lower Level removes a higher level reference to a different reused ",
+      "createdAt": "2023-05-08T20:22:04Z",
+      "url": "https://github.com/OAGi/Score/issues/1486",
+      "number": 1486,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5iguXO",
+      "closed": true,
+      "title": "Long Definitions for Business Terms mark through the Updated On Column",
+      "createdAt": "2023-04-03T20:44:10Z",
+      "url": "https://github.com/OAGi/Score/issues/1464",
+      "number": 1464,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/117864643?u=a347a6cc382dab6e0b8cd6b75445230e1a98faba&v=4",
+            "name": null,
+            "url": "https://github.com/bingqi2045"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5gS_lb",
+      "closed": true,
+      "title": "Http-Gateway Image Contains 2 Critical Security Vulnerabilities",
+      "createdAt": "2023-03-08T16:51:13Z",
+      "url": "https://github.com/OAGi/Score/issues/1425",
+      "number": 1425,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5Y9mc5",
+      "closed": true,
+      "title": "Uplifting BIE feature is not uplifting attached Code lists",
+      "createdAt": "2022-12-12T18:58:08Z",
+      "url": "https://github.com/OAGi/Score/issues/1356",
+      "number": 1356,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5YPJiF",
+      "closed": true,
+      "title": "Spring Security Core Critical Vulnerability in Http-Gateway Image",
+      "createdAt": "2022-12-06T22:38:44Z",
+      "url": "https://github.com/OAGi/Score/issues/1354",
+      "number": 1354,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5Vwefm",
+      "closed": true,
+      "title": "Unable to logout using the logout drop down menu option.",
+      "createdAt": "2022-11-07T18:08:39Z",
+      "url": "https://github.com/OAGi/Score/issues/1344",
+      "number": 1344,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5SP334",
+      "closed": true,
+      "title": "10.6 BIEs are stuck in a loading state",
+      "createdAt": "2022-09-20T19:28:27Z",
+      "url": "https://github.com/OAGi/Score/issues/1326",
+      "number": 1326,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5P1cn_",
+      "closed": false,
+      "title": "Admin capability to delete existing user ids and associated data",
+      "createdAt": "2022-08-15T19:44:55Z",
+      "url": "https://github.com/OAGi/Score/issues/1315",
+      "number": 1315,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5P1Uae",
+      "closed": false,
+      "title": "Super User or Admin account with capabilities of transferring/copying BIEs",
+      "createdAt": "2022-08-15T19:08:48Z",
+      "url": "https://github.com/OAGi/Score/issues/1314",
+      "number": 1314,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5Nod03",
+      "closed": true,
+      "title": "End User Admin accounts reverts back to the login page when Pending SSO page is selected",
+      "createdAt": "2022-07-12T18:13:50Z",
+      "url": "https://github.com/OAGi/Score/issues/1307",
+      "number": 1307,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5NW_bb",
+      "closed": true,
+      "title": "Redis image contains a critical vulnerability",
+      "createdAt": "2022-07-07T18:10:20Z",
+      "url": "https://github.com/OAGi/Score/issues/1306",
+      "number": 1306,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5JwA7w",
+      "closed": true,
+      "title": "Srt Repo Image 2.3.0 contains a critical vulnerability",
+      "createdAt": "2022-05-16T15:22:30Z",
+      "url": "https://github.com/OAGi/Score/issues/1293",
+      "number": 1293,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5Jv_gc",
+      "closed": true,
+      "title": "SRT Http Gateway Image 2.3.0 contains multiple critical vulnerabilities",
+      "createdAt": "2022-05-16T15:18:17Z",
+      "url": "https://github.com/OAGi/Score/issues/1292",
+      "number": 1292,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5IawaQ",
+      "closed": true,
+      "title": "Expressing Multiple BIEs in Individual Files generates invalid BIEs",
+      "createdAt": "2022-04-25T19:54:47Z",
+      "url": "https://github.com/OAGi/Score/issues/1285",
+      "number": 1285,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc5D0Iwx",
+      "closed": true,
+      "title": "Reused BIE Not Updating on the User Display",
+      "createdAt": "2022-02-14T19:25:36Z",
+      "url": "https://github.com/OAGi/Score/issues/1248",
+      "number": 1248,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22545797?v=4",
+            "name": "Dimitrije Milenkovic",
+            "url": "https://github.com/DimitrijeM"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "I_kwDOATvdRc4_tESr",
+      "closed": false,
+      "title": "Unable to select custom codelists for UOM Code",
+      "createdAt": "2021-12-01T19:12:42Z",
+      "url": "https://github.com/OAGi/Score/issues/1219",
+      "number": 1219,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU5ODY4MzUwODA=",
+      "closed": true,
+      "title": "Express BIE function crashing when multiple users attempt to express the same BIE",
+      "createdAt": "2021-09-02T14:51:26Z",
+      "url": "https://github.com/OAGi/Score/issues/1187",
+      "number": 1187,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10194354?u=b848d8b75310d7fbed46ac26103c0ae84669ef75&v=4",
+            "name": "kwanghoon lee",
+            "url": "https://github.com/rekuku"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU5NzI4Mjk4Mzc=",
+      "closed": true,
+      "title": "Extension Reuse BIE not appearing as an option for Document Reference.Extension",
+      "createdAt": "2021-08-17T15:46:30Z",
+      "url": "https://github.com/OAGi/Score/issues/1176",
+      "number": 1176,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU4NjE2OTA5MTA=",
+      "closed": true,
+      "title": "Uplifting BIE: Date Time field is changing to token when previously is Date Time",
+      "createdAt": "2021-04-19T18:44:59Z",
+      "url": "https://github.com/OAGi/Score/issues/1131",
+      "number": 1131,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10194354?u=b848d8b75310d7fbed46ac26103c0ae84669ef75&v=4",
+            "name": "kwanghoon lee",
+            "url": "https://github.com/rekuku"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQ5NzgxMzE=",
+      "closed": true,
+      "title": "Uplifting BIEs with a nested BIE.",
+      "createdAt": "2021-02-09T22:25:41Z",
+      "url": "https://github.com/OAGi/Score/issues/1086",
+      "number": 1086,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10194354?u=b848d8b75310d7fbed46ac26103c0ae84669ef75&v=4",
+            "name": "kwanghoon lee",
+            "url": "https://github.com/rekuku"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQ5NzYxODU=",
+      "closed": true,
+      "title": "Make Reuse BIE Option Missing for QA and Production State BIEs",
+      "createdAt": "2021-02-09T22:22:07Z",
+      "url": "https://github.com/OAGi/Score/issues/1085",
+      "number": 1085,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10194354?u=b848d8b75310d7fbed46ac26103c0ae84669ef75&v=4",
+            "name": "kwanghoon lee",
+            "url": "https://github.com/rekuku"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQ5NzQ4MTg=",
+      "closed": true,
+      "title": "Uplift BIE not loading for SSO Accounts",
+      "createdAt": "2021-02-09T22:19:43Z",
+      "url": "https://github.com/OAGi/Score/issues/1084",
+      "number": 1084,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10194354?u=b848d8b75310d7fbed46ac26103c0ae84669ef75&v=4",
+            "name": "kwanghoon lee",
+            "url": "https://github.com/rekuku"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU3NzEwNTM3ODc=",
+      "closed": false,
+      "title": "CC Creation Missing for Certain SSO Admin Accounts",
+      "createdAt": "2020-12-18T17:32:01Z",
+      "url": "https://github.com/OAGi/Score/issues/1049",
+      "number": 1049,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU3NzAzOTQ3MjU=",
+      "closed": true,
+      "title": "Using the Expand All feature creates lag.",
+      "createdAt": "2020-12-17T21:48:27Z",
+      "url": "https://github.com/OAGi/Score/issues/1048",
+      "number": 1048,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU3NDAwNzc2NTM=",
+      "closed": true,
+      "title": "Transfer Ownership Bug with SSO Accounts",
+      "createdAt": "2020-11-10T16:53:54Z",
+      "url": "https://github.com/OAGi/Score/issues/1016",
+      "number": 1016,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU3MjA3MzEzOTQ=",
+      "closed": true,
+      "title": "Process Item Master and BOM Reuse Issue",
+      "createdAt": "2020-10-13T19:36:53Z",
+      "url": "https://github.com/OAGi/Score/issues/985",
+      "number": 985,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10194354?u=b848d8b75310d7fbed46ac26103c0ae84669ef75&v=4",
+            "name": "kwanghoon lee",
+            "url": "https://github.com/rekuku"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU3MDY0NjMxMDU=",
+      "closed": true,
+      "title": "Enhancement: Account Lock Feature",
+      "createdAt": "2020-09-22T15:02:20Z",
+      "url": "https://github.com/OAGi/Score/issues/892",
+      "number": 892,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU2OTEyNDE2Mjk=",
+      "closed": false,
+      "title": "SSO Improvements: Auto-Generating New Accounts and Removing Non-Existing Accounts",
+      "createdAt": "2020-09-02T17:24:47Z",
+      "url": "https://github.com/OAGi/Score/issues/880",
+      "number": 880,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    },
+    {
+      "id": "MDU6SXNzdWU2OTEyMTM3OTc=",
+      "closed": true,
+      "title": "SSO Improvements: Admin Ability to use SSO",
+      "createdAt": "2020-09-02T17:08:19Z",
+      "url": "https://github.com/OAGi/Score/issues/879",
+      "number": 879,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16102116?v=4",
+            "name": "Hakju Oh",
+            "url": "https://github.com/hakjuoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Score",
+        "url": "https://github.com/OAGi/Score",
+        "owner": {
+          "login": "OAGi",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828076?v=4",
+          "url": "https://github.com/OAGi"
+        }
+      },
+      "sourceUser": "smorgan19"
+    }
+  ],
+  "open": 9,
+  "closed": 43,
+  "totalCount": 52,
+  "users": [
+    "sashalashae",
+    "smorgan19"
+  ]
+}
